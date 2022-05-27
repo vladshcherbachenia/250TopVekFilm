@@ -1,0 +1,16 @@
+.circle-buttom {
+    border-radius: 15px;
+}
+
+.poster-item-hover {
+    position: relative;
+    transition: 0.3s ease-in;
+    z-index: 99;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.poster-item-hover:hover {
+    transform: scale(1.05);
+    z-index: 999;
+}

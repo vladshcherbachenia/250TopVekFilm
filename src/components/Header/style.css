@@ -1,0 +1,22 @@
+.bg-info_header {
+    background-color: #101010 !important;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.inputSearch {
+    padding: 23px;
+    border-radius: 26px;
+}
+
+.inputSearch:focus,
+.inputSearch {
+    background: none
+}
+
+.button {
+    padding: 13px;
+    border-radius: 30px;
+}
